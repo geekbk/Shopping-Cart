@@ -1,0 +1,12 @@
+
+.navigation {
+	margin-bottom: 20px;
+}
+ .product-display {
+ 	border:1px solid #333;
+    background-color:#f0f0f0;
+    border-radius:5px; padding:16px;
+    height:460px;
+    text-align:center;
+
+ }
